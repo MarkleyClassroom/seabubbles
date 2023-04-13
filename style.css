@@ -1,0 +1,40 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #89BBFE;
+}
+
+.topnav h1 {
+    color: #EDDEA4;
+    display: inline;
+    margin: 2rem;
+}
+
+/*navigation bar styling*/
+.topnav {
+	background-color: #006992;
+	border-radius: 8px;
+	padding: 10px;
+	text-align: center;
+    margin-bottom: 2.5%;
+}
+
+/*nav link styling*/
+.topnav a {
+	color: #EDDEA4;
+	text-align: center;
+	padding: 1rem;	 
+	text-decoration: none;
+	font-size: 27px;
+    margin: 2rem;
+}
+
+/*Changes the color when mouse hovers over it using the :hover selector*/
+.topnav a:hover {
+  	background-color: #EDDEA4;
+ 	color: #006992;
+	border-radius: 20%;
+}
+
+img {
+
+}
