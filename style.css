@@ -35,6 +35,15 @@ body {
 	border-radius: 20%;
 }
 
-img {
+.imgContainer {
+    width: 100%;
+    height: 500px;
+    background-image: url('reef.jpg');
+    background-size: cover;
+  }
 
+.imgContainer h1 {
+    margin: auto;
+    text-align: center;
+    color: white;
 }
